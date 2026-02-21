@@ -40,11 +40,15 @@ Em meus últimos projetos, implementei:
 ---
 
 ### 📈 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoMDM0&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMDM0&layout=compact&theme=dark)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoMDM0&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMDM0&layout=compact&theme=dark" />
+</p>
 
 ---
 
 ### 🔗 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-medeiros-0185602b2/)
-[![Portfolio](https://img.shields.io/badge/Meu_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gustavomdm0.github.io/Meu-Portifolio/)
+<p align="left">
+<a href="https://linkedin.com/in/gustavo-medeiros-0185602b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://gustavomdm0.github.io/Meu-Portifolio/" target="_blank"><img src="https://img.shields.io/badge/Meu_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
+</p>
